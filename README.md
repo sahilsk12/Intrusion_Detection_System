@@ -47,4 +47,4 @@ libpcap-dev zlib1g-dev pkg-config libhwloc-dev cmake liblzma-dev openssl \
 libssl-dev cpputest libsqlite3-dev libtool uuid-dev git autoconf bison flex \
 libcmocka-dev libnetfilter-queue-dev libunwind-dev libpcre2-dev
 
-**2. Install Hyperscan**
+### 2. Install Hyperscan
