@@ -4,11 +4,11 @@ Intrusion is when an attacker gets unauthorized access to a device, network, or 
 SNORT is a powerful open-source intrusion detection system (IDS) and intrusion prevention system (IPS) that provides real-time network traffic analysis and data packet logging. SNORT uses a rule-based language that combines anomaly, protocol, and signature inspection methods to detect potentially malicious activity.
 
 
-![image](https://github.com/user-attachments/assets/35dda460-7a4d-4f6f-85e8-ebfe6229ddca)
-
 # 🛡️ Network-based Intrusion Detection System (NIDS) using Snort 3
 
 This project showcases the setup of a **Network-based Intrusion Detection System (NIDS)** using **Snort 3** on Ubuntu. The goal is to monitor and analyze network traffic to detect potential threats using rule-based logic.
+
+![image](https://github.com/user-attachments/assets/35dda460-7a4d-4f6f-85e8-ebfe6229ddca)
 
 ---
 
